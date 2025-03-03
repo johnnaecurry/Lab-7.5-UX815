@@ -49,6 +49,11 @@ img.about {
     opacity: 0.5;
 }
 
-img {
-    border-radius: 10px;
+
+a{
+ color: #E0B1CB;
+}
+
+footer {
+    color: #E0B1CB;
 }
