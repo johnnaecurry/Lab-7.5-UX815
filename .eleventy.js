@@ -7,5 +7,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("js");
 =======
   eleventyConfig.addPassthroughCopy("**/*");
+<<<<<<< HEAD
 >>>>>>> 7ef96b1 (5th commit)
+=======
+  eleventyConfig.addPassthroughCopy("js");
+>>>>>>> d0c61a1 (final commit)
 };
