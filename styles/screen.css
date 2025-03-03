@@ -8,7 +8,7 @@ body {
 
 nav {
     margin: 40px auto 0 auto;
-    width: 250px;
+    width: 260px;
     border-radius: 50px;
     background: #5E548E;
 }
@@ -45,6 +45,10 @@ h1 strong {
     -webkit-text-fill-color: transparent;
 }
 
+img {
+    margin: 10px;
+}
+
 img.about {
     opacity: 0.5;
 }
@@ -56,4 +60,14 @@ a{
 
 footer {
     color: #E0B1CB;
+}
+
+p {
+    display: inline-block;
+    font-size: 1.5em;
+    line-height: 1.6;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: justify;
 }
