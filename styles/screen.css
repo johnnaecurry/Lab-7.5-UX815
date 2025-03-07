@@ -53,6 +53,7 @@ h2 {
 
 img {
     margin: 10px;
+    border-radius: 10px;
 }
 
 img.about {
