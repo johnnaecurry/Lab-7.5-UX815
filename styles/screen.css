@@ -41,6 +41,7 @@ h1 {
 h1 strong {
     background: #9F86C0 ;
     background: linear-gradient(45deg, #9F86C0 0%, #E0B1CB 100%);
+    background-clip: content-box;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
